@@ -1,0 +1,28 @@
+{
+  "name": "generate-a-readme",
+  "version": "1.0.0",
+  "description": "Generate a ReadMe",
+  "main": "\\",
+  "scripts": {
+    "test": "Hello There"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andytheelf/Generate-a-ReadMe.git"
+  },
+  "keywords": [
+    "Create",
+    "a",
+    "Professional",
+    "ReadMe"
+  ],
+  "author": "Andrea Ballew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andytheelf/Generate-a-ReadMe/issues"
+  },
+  "homepage": "https://github.com/andytheelf/Generate-a-ReadMe#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
