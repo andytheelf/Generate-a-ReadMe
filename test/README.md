@@ -1,10 +1,10 @@
 
-   
-    # k
+   [Video](https://youtu.be/aiHlWeMJkwI)
+    # What is the title of your readme?
     undefined
     
     ## Description
-    k
+    The description you would like to add here! 
     
     ## Table of Contents
     
@@ -21,19 +21,19 @@
     [Questions](#questions)
     
     ## Installation
-    k
+    Any installation instructions for the user?
    
     ## Usage
-    k
+    Instruct them how to use your application!
     
     ## Credits
-    k
+    Did anyone contribute?
     
     ## License
-    Licensed under MIT.
+    Licensed under MIT,Mozilla,Apache,Unilicense,GNU AGPLv3.
     
     ## Tests
-    k
+    How can tests be run?
     
     ## Questions
     Any Questions please reach me via: [Github](github.com/andytheelf "My Github")
